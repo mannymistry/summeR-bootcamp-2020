@@ -50,7 +50,7 @@ subtitle = ""
  css_class = ""
 +++
 
-The bootcamp organizers are dedicated to providing a harassment-free experience for everyone regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age or religion. We do not tolerate harassment of any participants in any form. Sexual language and imagery is not appropriate in any context within the bootcamp. Participants violating these rules may be expelled from the bootcamp at the discretion of the organizers.
+56 Doors is dedicated to providing a harassment-free experience for everyone regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age or religion. We do not tolerate harassment of any participants in any form. Sexual language and imagery is not appropriate in any context within the duration of the course. Participants violating these rules may be expelled from the course at the discretion of the organizers.
 
 Harassment includes verbal comments that reinforce social structures of domination related to gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age, or religion; sexual images in public spaces; deliberate intimidation; sustained disruption of instruction; and unwelcome sexual attention of any kind. Participants asked to stop any harassing behavior are expected to comply immediately.
 
